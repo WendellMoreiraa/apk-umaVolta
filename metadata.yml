@@ -1,0 +1,13 @@
+Categories:
+  - Science
+License: Unknown
+SourceCode: https://example.com/nao-tem
+IssueTracker: https://example.com/nao-tem
+AutoUpdateMode: None
+UpdateCheckMode: None
+Name: Uma volta pelo sistema solar
+Summary: Uma volta pelo sistema solar
+Description: |
+  Uma volta pelo sistema solar traz as principais características dos planetas de forma recreativa, por meio de um foguete que passeia pelos astros. Esteja no comando dessa viagem em busca do conhecimento e da diversão!
+RepoType: git
+Repo: https://example.com/nao-tem
